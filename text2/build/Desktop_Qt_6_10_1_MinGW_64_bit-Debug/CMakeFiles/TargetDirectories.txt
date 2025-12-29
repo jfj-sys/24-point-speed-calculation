@@ -1,0 +1,9 @@
+C:/JFJ/shixi/TEST/text2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/text2.dir
+C:/JFJ/shixi/TEST/text2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/JFJ/shixi/TEST/text2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/JFJ/shixi/TEST/text2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/JFJ/shixi/TEST/text2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/JFJ/shixi/TEST/text2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/JFJ/shixi/TEST/text2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/JFJ/shixi/TEST/text2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/text2_autogen_timestamp_deps.dir
+C:/JFJ/shixi/TEST/text2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/text2_autogen.dir

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9a0c1d540ff2e50cf9d8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "text2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "text2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-text2-Debug-194b4f5c88d2b842bb28.json",
+					"name" : "text2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "text2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-text2_autogen-Debug-72d28d9d33832154518a.json",
+					"name" : "text2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "text2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-text2_autogen_timestamp_deps-Debug-593ce6df3d730ddaee39.json",
+					"name" : "text2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/JFJ/shixi/TEST/text2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug",
+		"source" : "C:/JFJ/shixi/TEST/text2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
